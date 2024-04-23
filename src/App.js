@@ -13,11 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-<<<<<<< HEAD
           Visit The Cloud Wanderer BLOG
-=======
-          VISIT The Cloud Wanderer BLOG
->>>>>>> origin/main
         </a>
       </header>
     </div>
